@@ -1,1 +1,1 @@
-command line ruby program for adding restuarants.
+Command line ruby program for adding restuarants.
